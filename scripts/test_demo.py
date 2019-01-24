@@ -11,4 +11,4 @@ class TestDemo:
 
     def test_02(self):
         print("helloworld!")
-        assert 0
+        assert 1
